@@ -1,0 +1,8 @@
+.candidates_list > h1 {
+    font-size: 60px;
+    font-weight: lighter;
+  }
+
+.candidates_list {
+    display: inline-block;
+}

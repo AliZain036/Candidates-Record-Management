@@ -1,0 +1,13 @@
+.update_candidate > h1 {
+  font-size: 60px;
+  font-weight: lighter;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex > label {
+  flex: 0.3;
+  font-size: 18px;
+}

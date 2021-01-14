@@ -1,0 +1,12 @@
+* {
+  margin: 15px;
+}
+
+.app {
+  height: 100vh;
+  text-align: center;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
